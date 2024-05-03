@@ -1,0 +1,6 @@
+openai
+llama-index-agent-openai
+llama-index
+tiktoken
+llama-index-llms-openai
+streamlit
